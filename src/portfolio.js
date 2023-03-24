@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "fa-solid fa-plus-large"
+      fontAwesomeClassname: "fas fa-chart-simple"
     },
     {
       skillName: "Figma",
