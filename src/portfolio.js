@@ -3,7 +3,6 @@
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
-import {Icon} from "@iconify/react";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
 // Splash Screen
@@ -82,7 +81,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "fa fa-bar-chart"
+      fontAwesomeClassname: "fas fa-chart-bar"
     },
     {
       skillName: "Figma",
