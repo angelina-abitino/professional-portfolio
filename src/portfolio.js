@@ -110,10 +110,19 @@ const educationInfo = {
     {
       schoolName: "Swarthmore College",
       logo: require("./assets/images/swarthmoreLogo.png"),
-      subHeader: "Bachelor of Science in Engineering, Bachelor of Arts in Computer Science",
+      subHeader:
+        "Bachelor of Science in Engineering, Bachelor of Arts in Computer Science",
       duration: "September 2014 - May 2018",
       desc: "Courses",
-      descBullets: ["Data Structures", "Algorithms", "Artificial Intelligence", "Computer Vision", "Robotics", "Bioinformatics", "Electronic Circuits"]
+      descBullets: [
+        "Data Structures",
+        "Algorithms",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Robotics",
+        "Bioinformatics",
+        "Electronic Circuits"
+      ]
     }
   ]
 };
