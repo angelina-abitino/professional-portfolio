@@ -26,8 +26,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python / R / Tableau."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -61,7 +60,7 @@ const skillsSection = {
     )
   ],
 
-  /* Make Sure to include correct Font Awesome Classname to view your icon
+/* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
