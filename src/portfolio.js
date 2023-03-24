@@ -79,7 +79,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "far fa-chart-scatter"
+      fontAwesomeClassname: "fas far fa-chart-scatter-bubble"
     },
     {
       skillName: "Figma",
