@@ -3,7 +3,7 @@
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
-import { Icon } from '@iconify/react';
+import {Icon} from "@iconify/react";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
 // Splash Screen
@@ -26,7 +26,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python / R / Tableau."
   ),
-  resumeLink: "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
+  resumeLink:
+    "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,18 +50,21 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "ENTHUSIASTIC DATA ANALYST WHO WANTS LEVERAGE DATA TO ITS FULLEST EXTENT",
+  subTitle:
+    "ENTHUSIASTIC DATA ANALYST WHO WANTS LEVERAGE DATA TO ITS FULLEST EXTENT",
   skills: [
     emoji(
       "⚡️ Deeply explore, analyze, and understand data using SQL and data visualization tools"
     ),
-    emoji("⚡️ Craft thoughtfully designed visualizations that make it easy for you to gain insights"),
+    emoji(
+      "⚡️ Craft thoughtfully designed visualizations that make it easy for you to gain insights"
+    ),
     emoji(
       "⚡️ Communicate data analysis and offer recommendations to improve outcomes"
     )
   ],
 
-/* Make Sure to include correct Font Awesome Classname to view your icon
+  /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
