@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "fas fa-camera-retro"
+      fontAwesomeClassname: "fas fa-plus-large"
     },
     {
       skillName: "Figma",
