@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.3bf9c4f5.css",
-    "main.js": "/professional-portfolio/static/js/main.ccfc7293.js",
+    "main.js": "/professional-portfolio/static/js/main.dd634612.js",
     "static/css/64.917cfe77.chunk.css": "/professional-portfolio/static/css/64.917cfe77.chunk.css",
     "static/js/64.a2201178.chunk.js": "/professional-portfolio/static/js/64.a2201178.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/professional-portfolio/static/css/769.70f3b610.chunk.css",
-    "static/js/769.7f15e30f.chunk.js": "/professional-portfolio/static/js/769.7f15e30f.chunk.js",
+    "static/js/769.ad15f1b3.chunk.js": "/professional-portfolio/static/js/769.ad15f1b3.chunk.js",
     "static/media/stanfordLogo.png": "/professional-portfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
     "static/media/harvardLogo.png": "/professional-portfolio/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
     "static/media/Montserrat-Regular.ttf": "/professional-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -25,14 +25,14 @@
     "index.html": "/professional-portfolio/index.html",
     "static/media/talksCardBack.svg": "/professional-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3bf9c4f5.css.map": "/professional-portfolio/static/css/main.3bf9c4f5.css.map",
-    "main.ccfc7293.js.map": "/professional-portfolio/static/js/main.ccfc7293.js.map",
+    "main.dd634612.js.map": "/professional-portfolio/static/js/main.dd634612.js.map",
     "64.917cfe77.chunk.css.map": "/professional-portfolio/static/css/64.917cfe77.chunk.css.map",
     "64.a2201178.chunk.js.map": "/professional-portfolio/static/js/64.a2201178.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/professional-portfolio/static/css/769.70f3b610.chunk.css.map",
-    "769.7f15e30f.chunk.js.map": "/professional-portfolio/static/js/769.7f15e30f.chunk.js.map"
+    "769.ad15f1b3.chunk.js.map": "/professional-portfolio/static/js/769.ad15f1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bf9c4f5.css",
-    "static/js/main.ccfc7293.js"
+    "static/js/main.dd634612.js"
   ]
 }
