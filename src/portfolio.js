@@ -97,23 +97,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "University of Colorado Boulder",
+      logo: require("./assets/images/CULogo.png"),
+      subHeader: "Doctor of Philosophy in Computer Science (In Progress)",
+      duration: "August 2021 - Present",
+      desc: "Participated in the research sponsored by the National Science Foundation AI Institute.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Abitino, A., Pugh, S. L., Peacock, C. E., & D’Mello, S. K. (2022, July). Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads. In Artificial Intelligence in Education: 23rd International Conference, AIED 2022, Durham, UK, July 27–31, 2022, Proceedings, Part I (pp. 378-389).",
+        "Moulder, R., Booth, B., Abitino, A., & D'Mello, S. (2023, March). Recurrence Quantification Analysis of Eye Gaze Dynamics During Team Collaboration. In LAK23: 13th International Learning Analytics and Knowledge Conference (pp. 430-440)."
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Swarthmore College",
+      logo: require("./assets/images/swarthmoreLogo.png"),
+      subHeader: "Bachelor of Science in Engineering, Bachelor of Arts in Computer Science",
+      duration: "September 2014 - May 2018",
+      desc: "Courses",
+      descBullets: ["Data Structures", "Algorithms", "Artificial Intelligence", "Computer Vision", "Robotics", "Bioinformatics", "Electronic Circuits"]
     }
   ]
 };
