@@ -24,7 +24,7 @@ const greeting = {
   username: "Angelina Abitino",
   title: "Hi, I'm Angelina",
   subTitle: emoji(
-    "An passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python 🐍 / R / Tableau."
+    "A passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python / R / Tableau."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
@@ -53,7 +53,7 @@ const skillsSection = {
   subTitle: "ENTHUSIASTIC DATA ANALYST WHO WANTS LEVERAGE DATA TO ITS FULLEST EXTENT",
   skills: [
     emoji(
-      "⚡️ Deeply explore, analyze, and understand the data using SQL and data visualization tools"
+      "⚡️ Deeply explore, analyze, and understand data using SQL and data visualization tools"
     ),
     emoji("⚡️ Craft thoughtfully designed visualizations that make it easy for you to gain insights"),
     emoji(
@@ -75,15 +75,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "R",
-      fontAwesomeClassname: "fa-brands fa-r-project"
+      fontAwesomeClassname: "fab fa-r-project"
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "fa-regular fa-chart-scatter"
+      fontAwesomeClassname: "far fa-chart-scatter"
     },
     {
       skillName: "Figma",
-      fontAwesomeClassname: "fa-brands fa-figma"
+      fontAwesomeClassname: "fab fa-figma"
     }
   ],
   display: true // Set false to hide this section, defaults to true
