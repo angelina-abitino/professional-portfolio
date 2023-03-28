@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Data Aggregation Manager",
       company: "Epic",
-      companylogo: require("./assets/images/EpicCircularLogo.svg"),
+      companylogo: require("./assets/images/EpicCircularLogo.png"),
       date: "August 2018 – June 2021",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -167,7 +167,7 @@ const workExperiences = {
     {
       role: "Researcher",
       company: "Emotive Computing Lab",
-      companylogo: require("./assets/images/CUShortLogo.png"),
+      companylogo: require("./assets/images/CUCircularLogo.png"),
       date: "August 2021 – July 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
