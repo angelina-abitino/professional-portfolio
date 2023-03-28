@@ -174,7 +174,7 @@ const workExperiences = {
     {
       role: "Researcher",
       company: "kLAB Machine and Perception Laboratory at RIT",
-      companylogo: require("./assets/images/RITLogo.jpg"),
+      companylogo: require("./assets/images/RITLogo.png"),
       date: "June 2017 – August 2017",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
