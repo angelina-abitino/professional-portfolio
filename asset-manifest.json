@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.2eee40e1.css",
-    "main.js": "/professional-portfolio/static/js/main.85369d88.js",
+    "main.js": "/professional-portfolio/static/js/main.f5e87d4b.js",
     "static/css/64.917cfe77.chunk.css": "/professional-portfolio/static/css/64.917cfe77.chunk.css",
     "static/js/64.a2201178.chunk.js": "/professional-portfolio/static/js/64.a2201178.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/professional-portfolio/static/css/769.70f3b610.chunk.css",
@@ -16,7 +16,6 @@
     "static/media/googleAssistantLogo.webp": "/professional-portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/airbnbLogo.png": "/professional-portfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/facebookLogo.png": "/professional-portfolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
-    "static/media/CULogo.png": "/professional-portfolio/static/media/CULogo.a69b3bb821b7e5b2e7d7.png",
     "static/media/codeInLogo.webp": "/professional-portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/professional-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/pwaLogo.webp": "/professional-portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
@@ -25,7 +24,7 @@
     "index.html": "/professional-portfolio/index.html",
     "static/media/talksCardBack.svg": "/professional-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.2eee40e1.css.map": "/professional-portfolio/static/css/main.2eee40e1.css.map",
-    "main.85369d88.js.map": "/professional-portfolio/static/js/main.85369d88.js.map",
+    "main.f5e87d4b.js.map": "/professional-portfolio/static/js/main.f5e87d4b.js.map",
     "64.917cfe77.chunk.css.map": "/professional-portfolio/static/css/64.917cfe77.chunk.css.map",
     "64.a2201178.chunk.js.map": "/professional-portfolio/static/js/64.a2201178.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/professional-portfolio/static/css/769.70f3b610.chunk.css.map",
@@ -33,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.2eee40e1.css",
-    "static/js/main.85369d88.js"
+    "static/js/main.f5e87d4b.js"
   ]
 }
