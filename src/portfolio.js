@@ -101,7 +101,10 @@ const educationInfo = {
       logo: require("./assets/images/CULogo.png"),
       subHeader: "Doctor of Philosophy in Computer Science (In Progress)",
       duration: "August 2021 - Present",
-      desc: "Participated in the research sponsored by the National Science Foundation AI Institute.",
+      desc: [
+        "Participated in research to support AI for education nsponsored by the National Science Foundation AI Institute.",
+        "Publications:"
+      ],
       descBullets: [
         "Abitino, A., Pugh, S. L., Peacock, C. E., & D’Mello, S. K. (2022, July). Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads. In Artificial Intelligence in Education: 23rd International Conference, AIED 2022, Durham, UK, July 27–31, 2022, Proceedings, Part I (pp. 378-389).",
         "Moulder, R., Booth, B., Abitino, A., & D'Mello, S. (2023, March). Recurrence Quantification Analysis of Eye Gaze Dynamics During Team Collaboration. In LAK23: 13th International Learning Analytics and Knowledge Conference (pp. 430-440)."
