@@ -98,7 +98,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Colorado Boulder",
-      logo: require("./assets/images/CULogo.png"),
+      logo: require("./assets/images/CUBoulderCircularLogo.png"),
       subHeader: "Doctor of Philosophy in Computer Science (In Progress)",
       duration: "August 2021 - Present",
       desc: "Participated in research to support AI for education sponsored by the National Science Foundation AI Institute.",
@@ -109,7 +109,7 @@ const educationInfo = {
     },
     {
       schoolName: "Swarthmore College",
-      logo: require("./assets/images/swarthmoreLogo.png"),
+      logo: require("./assets/images/SwarthmoreCircularRedLogo.png"),
       subHeader:
         "Bachelor of Science in Engineering, Bachelor of Arts in Computer Science",
       duration: "September 2014 - May 2018",
