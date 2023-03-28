@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Data Aggregation Manager",
       company: "Epic",
-      companylogo: require("./assets/images/EpicLogo.png"),
+      companylogo: require("./assets/images/EpicCircularLogo.svg"),
       date: "August 2018 – June 2021",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
