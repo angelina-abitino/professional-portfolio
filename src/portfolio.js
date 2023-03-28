@@ -166,14 +166,14 @@ const workExperiences = {
     },
     {
       role: "Researcher",
-      company: "Emotive Computing Laboratory at CU Boulder",
+      company: "Emotive Computing Lab",
       companylogo: require("./assets/images/CUShortLogo.png"),
       date: "August 2021 – July 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Researcher",
-      company: "kLAB Machine and Perception Laboratory at RIT",
+      company: "kLAB at RIT",
       companylogo: require("./assets/images/RITLogo.png"),
       date: "June 2017 – August 2017",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
