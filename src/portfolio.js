@@ -158,10 +158,11 @@ const workExperiences = {
       company: "Epic",
       companylogo: require("./assets/images/EpicCircularLogo.png"),
       date: "August 2018 – June 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "I lead large-scale data integration projects for major healthcare systems and worked with C-suite stakeholders, project managers, and analytics teams to ensure successful outcomes.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Managed multiple team members in delivering high quality Tableau dashboards for monitoring cost and utilization metrics for value-based healthcare insurance contracts",
+        "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses and validated the data met clinical standards",
+        "Worked with clients' analytics teams to develop SQL queries for reporting"
       ]
     },
     {
@@ -169,14 +170,24 @@ const workExperiences = {
       company: "Emotive Computing Lab",
       companylogo: require("./assets/images/CUCircularLogo.png"),
       date: "August 2021 – July 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
+      descBullets: [
+        "Used machine learning and deep learning techniques to analyze eye movement patterns in teams working on a remote collaboration task to support the future development of AI collaborators",
+        "Analyzed and performed statistical analyses on eye tracking data using Python and R libraries",
+        "First authored paper published in 2022 AIED conference"
+      ]
     },
     {
       role: "Researcher",
       company: "kLAB at RIT",
       companylogo: require("./assets/images/RITLogo.png"),
       date: "June 2017 – August 2017",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I was awarded a grant from the National Science Foundation (NSF) to engage in deep learning research through the Research Experience for Undergraduate (REU) program.",
+      descBullets: [
+        "Conducted systematic literature review on proposed methods to reduce “catastrophic forgetting” in deep neural networks",
+        "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras and TensorFlow libraries",
+        "Co-authored paper published in 2018 AAAI conference"
+      ]
     }
   ]
 };
