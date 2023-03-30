@@ -5,20 +5,24 @@ import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
-  workExperiences,
   skillsSection,
+  educationInfo,
+  workExperiences,
+  bigProjects,
+  achievementSection,
   openSource,
   blogSection,
-  talkSection,
-  achievementSection
+  talkSection
 } from "../../portfolio";
 
 function Header() {
   const {isDark} = useContext(StyleContext);
-  const viewExperience = workExperiences.display;
-  const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
+  const viewEducation = educationInfo.display;
+  const viewExperience = workExperiences.display;
+  const viewProjects = bigProjects.display;
   const viewAchievement = achievementSection.display;
+  const viewOpenSource = openSource.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
 
@@ -44,19 +48,29 @@ function Header() {
               <a href="#skills">Skills</a>
             </li>
           )}
+          {viewEducation && (
+            <li>
+              <a href="#education">Education</a>
+            </li>
+          )}
           {viewExperience && (
             <li>
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          {viewOpenSource && (
+          {viewProjects && (
             <li>
-              <a href="#opensource">Open Source</a>
+              <a href="#projects">Data Stories</a>
             </li>
           )}
           {viewAchievement && (
             <li>
               <a href="#achievements">Achievements</a>
+            </li>
+          )}
+          {viewOpenSource && (
+            <li>
+              <a href="#opensource">Open Source</a>
             </li>
           )}
           {viewBlog && (
