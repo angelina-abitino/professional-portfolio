@@ -161,7 +161,7 @@ const workExperiences = {
       desc: "I lead large-scale data integration projects for major healthcare systems and worked with C-suite stakeholders, project managers, and analytics teams to ensure successful outcomes.",
       descBullets: [
         "Managed multiple team members in delivering high quality Tableau dashboards for monitoring cost and utilization metrics for value-based healthcare insurance contracts",
-        "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses and validated the data met clinical standards",
+"Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses and validated the data met clinical standards",
         "Worked with clients' analytics teams to develop SQL queries for reporting"
       ]
     },
@@ -171,8 +171,8 @@ const workExperiences = {
       companylogo: require("./assets/images/CUCircularLogo.png"),
       date: "August 2021 – July 2022",
       desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
-      descBullets: [
-        "Used machine learning and deep learning techniques to analyze eye movement patterns in teams working on a remote collaboration task to support the future development of AI collaborators",
+	descBullets: [
+	  "Used machine learning and deep learning techniques to analyze eye movement patterns in teams working on a remote collaboration task to support the future development of AI collaborators",
         "Analyzed and performed statistical analyses on eye tracking data using Python and R libraries",
         "First authored paper published in 2022 AIED conference"
       ]
@@ -183,11 +183,11 @@ const workExperiences = {
       companylogo: require("./assets/images/RITLogo.png"),
       date: "June 2017 – August 2017",
       desc: "I was awarded a grant from the National Science Foundation (NSF) to engage in deep learning research through the Research Experience for Undergraduate (REU) program.",
-      descBullets: [
-        "Conducted systematic literature review on proposed methods to reduce “catastrophic forgetting” in deep neural networks",
-        "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras and TensorFlow libraries",
+	descBullets: [
+	  "Conducted systematic literature review on proposed methods to reduce “catastrophic forgetting” in deep neural networks",
+	  "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras and TensorFlow libraries",
         "Co-authored paper published in 2018 AAAI conference"
-      ]
+	]
     }
   ]
 };
@@ -229,7 +229,7 @@ const bigProjects = {
         }
       ]
     },
-    {
+{
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -336,7 +336,7 @@ const talkSection = {
   subtitle: "",
 
   talks: [
-    {
+{
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
       slides_url: "https://bit.ly/saadpasta-slides",
