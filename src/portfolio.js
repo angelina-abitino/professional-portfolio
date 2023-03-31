@@ -16,7 +16,7 @@ const splashScreen = {
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: false // Set to false to use static SVG
 };
 
 const greeting = {
@@ -287,10 +287,18 @@ const blogSection = {
         "Kemker, R., McClure, M., Abitino, A., Hayes, T., & Kanan, C. (2018, April). Measuring catastrophic forgetting in neural networks. In Proceedings of the AAAI conference on artificial intelligence (Vol. 32, No. 1)."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_31",
+      title:
+        "Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Abitino, A., Pugh, S. L., Peacock, C. E., & D’Mello, S. K. (2022, July). Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads. In Artificial Intelligence in Education: 23rd International Conference, AIED 2022, Durham, UK, July 27–31, 2022, Proceedings, Part I (pp. 378-389). Cham: Springer International Publishing."
+    },
+    {
+      url: "https://dl.acm.org/doi/abs/10.1145/3576050.3576113",
+      title:
+        "Recurrence Quantification Analysis of Eye Gaze Dynamics During Team Collaboration",
+      description:
+        "Moulder, R., Booth, B., Abitino, A., & D'Mello, S. (2023, March). Recurrence Quantification Analysis of Eye Gaze Dynamics During Team Collaboration. In LAK23: 13th International Learning Analytics and Knowledge Conference (pp. 430-440)."
     }
   ],
   display: true // Set false to hide this section, defaults to true
