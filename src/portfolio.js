@@ -50,7 +50,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "ENTHUSIASTIC DATA ANALYST WHO WANTS LEVERAGE DATA TO ITS FULLEST EXTENT",
+    "ENTHUSIASTIC DATA ANALYST WHO WANTS TO LEVERAGE DATA TO ITS FULLEST EXTENT",
   skills: [
     emoji(
       "⚡️ Deeply explore, analyze, and understand data using SQL and data visualization tools"
