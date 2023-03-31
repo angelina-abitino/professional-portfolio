@@ -196,24 +196,25 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: true, // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: false, // Set true or false to show Contact profile using Github, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
   title: "Data Stories",
-  subtitle: "SOME DATA VISUALIZATIONS I'VE CREATED WITH TABLEAU",
+  subtitle: "DATA ANALYSIS PROJECTS I'VE DONE",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/chinook.png"),
+      projectName: "Chinook Music Store",
+      projectDesc:
+        "I analyzed the Chinook Music Store sales by using SQL to query the popular dataset, created visualization in Excel, and presented my findings with a slideshow presentation.",
       footerLink: [
         {
-          name: "See Visualization",
-          url: "http://saayahealth.com/"
+          name: "See repo",
+          url: "https://github.com/angelina-abitino/Analytics-Portfolio/tree/main/Chinook%20Music%20Store"
         }
         //  you can add extra buttons here.
       ]
