@@ -251,29 +251,21 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Achievements & Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements and certifications that have made me a better data analyst!",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Data Visualization with Tableau",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "I completed the Data Visualization with Tableau specialization by UC Davis. Through these courses, I learned about visual design principles, how to navigate Tableau, and how to create data stories for your intended audience.",
+      image: require("./assets/images/UCDavis.png"),
+      imageAlt: "UC Davis Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: "https://coursera.org/share/ac9f6ff231af3bb9a1a9f25155067f87"
         }
       ]
     },
