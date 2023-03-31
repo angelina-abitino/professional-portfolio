@@ -210,7 +210,7 @@ const bigProjects = {
       image: require("./assets/images/chinook.png"),
       projectName: "Chinook Music Store",
       projectDesc:
-        "I analyzed the Chinook Music Store sales by using SQL to query the popular dataset, created visualization in Excel, and presented my findings with a slideshow presentation.",
+        "I analyzed the Chinook Music Store sales by using SQL and Excel to create visualizations and presented my findings in a slideshow presentation.",
       footerLink: [
         {
           name: "See repo",
@@ -220,13 +220,14 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/rentalViz.png"),
+      projectName: "U.S. Rental Market Explorer",
+      projectDesc:
+        "I created a tool that allows users to explore trends in the U.S. rental market and identify regions that suit their personal budget.",
       footerLink: [
         {
-          name: "See Visualization",
-          url: "http://nextu.se/"
+          name: "See viz",
+          url: "https://public.tableau.com/app/profile/angelina.abitino/viz/U_S_RentalMarketExplorer/DataStory"
         }
       ]
     },
