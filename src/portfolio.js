@@ -220,7 +220,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/rentalViz.png"),
+      image: require("./assets/images/rentalVizHouse.png"),
       projectName: "U.S. Rental Market Explorer",
       projectDesc:
         "I created a tool that allows users to explore trends in the U.S. rental market and identify regions that suit their personal budget.",
