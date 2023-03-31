@@ -232,13 +232,14 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/superStoreSimple.png"),
+      projectName: "Superstore Discounts and Profits",
+      projectDesc:
+        "I analyzed the popular Superstore dataset to determine if discounts are being used effectively and offer recommendations to increase profits.",
       footerLink: [
         {
-          name: "See Visualization",
-          url: "http://nextu.se/"
+          name: "See viz",
+          url: "https://public.tableau.com/app/profile/angelina.abitino/viz/SuperstoreDiscountsandProfitsDataStory/Week4DataStory"
         }
       ]
     }
