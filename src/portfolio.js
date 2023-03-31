@@ -337,7 +337,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Shoot me an email if you want to discuss a project or just want to say hey! Open for opportunities: Yes",
+    "Shoot me an email if you want to discuss a project or just want to say hey! <br/>Open for opportunities: Yes",
   email_address: "angelina.abitino@gmail.com"
 };
 
