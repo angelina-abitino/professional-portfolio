@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python / R / Tableau."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1gJ_VeWU3zXuTBg9Jx_qjr8UrucP9GTTs/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1yk9_g7QLETGbxJ_SXlKakLJ755w2dT7w/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -173,8 +173,8 @@ const workExperiences = {
       desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
       descBullets: [
         "Used machine learning and deep learning techniques to analyze eye movement patterns in teams working on a remote collaboration task to support the future development of AI collaborators",
-        "Analyzed and performed statistical analyses on eye tracking data using Python and R libraries",
-        "First authored paper published in 2022 AIED conference"
+        "Performed statistical analyses using Python and R libraries",
+        "First authored paper on research supported by NSF National AI Institute for Student-AI Teaming (iSAT) and published in the 2022 Artificial Intelligence in Education (AIED) conference"
       ]
     },
     {
