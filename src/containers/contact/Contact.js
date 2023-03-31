@@ -57,7 +57,6 @@ export default function Contact() {
               alt="Picture of Angelina"
               src={require("../../assets/images/profilePicSnow.jpg")}
             ></img>
-            )}
           </div>
         </div>
       </div>
