@@ -159,7 +159,7 @@ const workExperiences = {
       company: "Epic",
       companylogo: require("./assets/images/EpicCircularLogo.png"),
       date: "August 2018 – June 2021",
-      desc: "I led large-scale data integration projects for major healthcare systems and worked with C-suite stakeholders, project managers, and analytics teams to ensure successful outcomes.",
+      desc: "I led large-scale data integration projects for major healthcare systems and worked with executive stakeholders, project managers, and analytics teams to ensure successful outcomes.",
       descBullets: [
         "Managed multiple team members in delivering high quality Tableau dashboards for monitoring cost and utilization metrics for value-based healthcare insurance contracts",
         "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses and validated the data met clinical standards",
