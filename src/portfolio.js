@@ -50,7 +50,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "ENTHUSIASTIC DATA ANALYST WHO WANTS TO LEVERAGE DATA TO ITS FULLEST EXTENT",
+    "I want to help a mission-driven company leverage their data to its fullest extent.",
   skills: [
     emoji(
       "⚡️ Deeply explore, analyze, and understand data using SQL and data visualization tools"
@@ -99,8 +99,9 @@ const educationInfo = {
     {
       schoolName: "University of Colorado Boulder",
       logo: require("./assets/images/CUBoulderCircularLogo.png"),
-      subHeader: "Doctor of Philosophy in Computer Science (In Progress)",
-      duration: "August 2021 - Present",
+      subHeader:
+        "Completed 12 credits towards a Doctor of Philosophy in Computer Science",
+      duration: "August 2021 - May 2022",
       desc: "Participated in research to support AI for education sponsored by the National Science Foundation AI Institute.",
       descBullets: [
         "Abitino, A., Pugh, S. L., Peacock, C. E., & D’Mello, S. K. (2022, July). Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads. In Artificial Intelligence in Education: 23rd International Conference, AIED 2022, Durham, UK, July 27–31, 2022, Proceedings, Part I (pp. 378-389).",
@@ -204,7 +205,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Data Stories",
-  subtitle: "DATA ANALYSIS PROJECTS I'VE DONE",
+  subtitle: "Please explore some data analysis projects I've done!",
   projects: [
     {
       image: require("./assets/images/chinook.png"),
