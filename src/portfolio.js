@@ -159,11 +159,11 @@ const workExperiences = {
       company: "Epic",
       companylogo: require("./assets/images/EpicCircularLogo.png"),
       date: "August 2018 – June 2021",
-      desc: "I led large-scale data integration projects for major healthcare systems and worked with executive stakeholders, project managers, and analytics teams to ensure successful outcomes.",
+      desc: "Lead successful data integration projects for major healthcare systems, collaborating with executives, project managers, and analytics teams to ensure positive outcomes",
       descBullets: [
-        "Managed multiple team members in delivering high quality Tableau dashboards for monitoring cost and utilization metrics for value-based healthcare insurance contracts",
-        "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses and validated the data met clinical standards",
-        "Worked with clients' analytics teams to develop SQL queries for reporting"
+        "Managed a team to deliver high-quality Tableau dashboards , enabling monitoring of cost and utilization metrics for value-based healthcare contracts",
+        "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses while ensuring data quality met clinical standards",
+        "Collaborated with clients’ analytics teams to create SQL queries for reporting"
       ]
     },
     {
@@ -173,9 +173,9 @@ const workExperiences = {
       date: "August 2021 – July 2022",
       desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
       descBullets: [
-        "Used machine learning and deep learning techniques to analyze eye movement patterns in teams working on a remote collaboration task to support the future development of AI collaborators",
-        "Performed statistical analyses using Python and R libraries",
-        "First authored paper on research supported by NSF National AI Institute for Student-AI Teaming (iSAT) and published in the 2022 Artificial Intelligence in Education (AIED) conference"
+        "Conducted research in the Emotive Computing Lab on human-AI collaboration and its potential applications in educational settings, supported by the NSF National AI Institute for Student-AI Teaming (iSAT)",
+        "Applied statistical techniques using Python and R to analyze eye movement patterns in collaborative teams",
+        "Published a first-authored paper in the 23rd International Conference on Artificial Intelligence in Education (AIED ’22), showcasing our findings on the feasibility of using AI to enhance teamwork"
       ]
     },
     {
@@ -183,11 +183,11 @@ const workExperiences = {
       company: "kLAB at RIT",
       companylogo: require("./assets/images/RITLogo.png"),
       date: "June 2017 – August 2017",
-      desc: "I was awarded a grant from the National Science Foundation (NSF) to engage in deep learning research through the Research Experience for Undergraduate (REU) program.",
+      desc: "Successfully secured a grant from the National Science Foundation (NSF) to conduct deep learning research as part of the Research Experiences for Undergraduates (REU) program",
       descBullets: [
-        "Conducted systematic literature review on proposed methods to reduce “catastrophic forgetting” in deep neural networks",
-        "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras and TensorFlow libraries",
-        "Co-authored paper published in 2018 AAAI conference"
+        "Conducted comprehensive literature review on proposed methods to mitigate “catastrophic forgetting” in deep neural networks",
+        "Developed and executed experiments using Python with Keras and TensorFlow libraries to compare mitigation methods, resulting in valuable insights",
+        "Co-authored a paper that was accepted and published at the prestigious 2018 AAAI conference"
       ]
     }
   ]
