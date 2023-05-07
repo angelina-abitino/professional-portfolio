@@ -23,7 +23,7 @@ const greeting = {
   username: "Angelina Abitino",
   title: "Hi, I'm Angelina",
   subTitle: emoji(
-    "A passionate Data Analyst with experience creating data visualizations 📊 using SQL / Python / R / Tableau."
+    "A passionate data analytics professional with expertise in data integration and experience creating data visualizations 📊 using SQL / Python / R / Tableau."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1yk9_g7QLETGbxJ_SXlKakLJ755w2dT7w/view?usp=sharing", // Set to empty to hide the button
