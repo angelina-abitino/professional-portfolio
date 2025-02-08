@@ -23,10 +23,10 @@ const greeting = {
   username: "Angelina Abitino",
   title: "Hi, I'm Angelina",
   subTitle: emoji(
-    "A passionate data analytics professional with expertise in data integration and experience creating data visualizations 📊 using SQL / Python / R / Tableau."
+    "A data and UX professional with experience in data-driven decision-making and human-AI interaction research. I bridge the gap between analytics and user experience to create intuitive, impactful solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1yk9_g7QLETGbxJ_SXlKakLJ755w2dT7w/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/101_dcsN0HvaWLEZwvNHC9AHyy5pAjqm7/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -50,16 +50,17 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "I want to help a mission-driven company leverage their data to its fullest extent.",
+    "I help mission-driven teams unlock the full potential of their data and research, turning insights into actionable strategies that drive better outcomes and enhance user experience.",
   skills: [
     emoji(
-      "⚡️ Deeply explore, analyze, and understand data using SQL and data visualization tools"
+      "⚡️ Project & Research Coordination: I use my strong organizational and team management skills to coordinate logistics, streamline workflows, and keep projects on track."
     ),
     emoji(
-      "⚡️ Craft thoughtfully designed visualizations that make it easy for you to gain insights"
+      "⚡️ Data Governance & Profiling: Audit and unify data to assess its potential, identify gaps, and ensure compliance with governance standards."
     ),
     emoji(
-      "⚡️ Communicate data analysis and offer recommendations to improve outcomes"
+      "⚡️ Data-Driven Insights: Use SQL, visualization tools, and surveys to inform decisions."
+    )
     )
   ],
 
@@ -90,6 +91,65 @@ https://fontawesome.com/icons?d=gallery */
   ],
   display: true // Set false to hide this section, defaults to true
 };
+
+// Work experience section
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+      {
+      role: "Product Manager, Data Analytics",
+      company: "Clarify Health",
+      companylogo: require("./assets/images/clarify_logo.jpg"),
+      date: "June 2023 – February 2025",
+      desc: "I directed cross-functional teams to integrate critical healthcare data into our products, enhancing data quality, accessibility, and compliance while continuously improving user experience.",
+      descBullets: [
+        "Spearheaded cross-functional coordination between offshore and internal teams to ensure the timely integration of CMS-mandated price transparency data into our product, driving improvements in data quality and delivering greater value to users",
+        "Engineered SQL-based logic to integrate price transparency data into a unified database, optimizing data accessibility and enhancing functionality across multiple products",
+        "Proposed a streamlined data filtering approach that reduced risky patient identification percentages below 0.5%, aligning with HIPAA privacy laws and mitigating legal risk",
+        "Engaged directly with users and product teams to gather feedback on the rollout of new price transparency data, ensuring the product met their needs and driving continuous improvements based on user insights"
+      ]
+    },
+    {
+      role: "Data Aggregation Manager",
+      company: "Epic",
+      companylogo: require("./assets/images/EpicCircularLogo.png"),
+      date: "August 2018 – June 2021",
+      desc: "I lead successful data integration projects for major healthcare systems, collaborating with executives, project managers, and analytics teams to ensure positive outcomes",
+      descBullets: [
+        "Developed standardized project management tools that improved workflow eﬃciency and increased on-time project completion",
+        "Managed direct reports, delegating hands-on work while providing guidance, feedback, and professional development support",
+        "Designed and tested ETL processes to integrate large-scale claims data while ensuring clinical data quality with a focus on user and client needs",
+        "Partnered with clients’ analytics teams to create SQL queries for reporting"
+      ]
+    },
+    {
+      role: "Researcher",
+      company: "Emotive Computing Lab",
+      companylogo: require("./assets/images/CUCircularLogo.png"),
+      date: "August 2021 – July 2022",
+      desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
+      descBullets: [
+        "Conducted research in the Emotive Computing Lab on human-AI collaboration and its potential applications in educational settings, supported by the NSF National AI Institute for Student-AI Teaming (iSAT)",
+        "Applied statistical techniques using Python and R to analyze eye movement patterns in collaborative teams",
+        "Studied user-centered design and development by iteratively designing a habit-tracking app, leveraging personas, prototypes, user test scripts, task models, and a comprehensive user research study to refine user experience and ensure alignment with user needs"
+      ]
+    },
+    {
+      role: "Researcher",
+      company: "kLAB at RIT",
+      companylogo: require("./assets/images/RITLogo.png"),
+      date: "June 2017 – August 2017",
+      desc: "Successfully secured a grant from the National Science Foundation (NSF) to conduct deep learning research as part of the Research Experiences for Undergraduates (REU) program",
+      descBullets: [
+        "Conducted comprehensive literature review on proposed methods to mitigate “catastrophic forgetting” in deep neural networks",
+        "Developed and executed experiments using Python with Keras and TensorFlow libraries to compare mitigation methods, resulting in valuable insights",
+        "Co-authored a paper that was accepted and published at the prestigious 2018 AAAI conference"
+      ]
+    }
+  ]
+};
+
 
 // Education Section
 
@@ -149,49 +209,7 @@ const techStack = {
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
-// Work experience section
 
-const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Data Aggregation Manager",
-      company: "Epic",
-      companylogo: require("./assets/images/EpicCircularLogo.png"),
-      date: "August 2018 – June 2021",
-      desc: "Lead successful data integration projects for major healthcare systems, collaborating with executives, project managers, and analytics teams to ensure positive outcomes",
-      descBullets: [
-        "Managed a team to deliver high-quality Tableau dashboards , enabling monitoring of cost and utilization metrics for value-based healthcare contracts",
-        "Developed and tested ETL processes to import large scale insurance claims data into healthcare systems’ data warehouses while ensuring data quality met clinical standards",
-        "Collaborated with clients’ analytics teams to create SQL queries for reporting"
-      ]
-    },
-    {
-      role: "Researcher",
-      company: "Emotive Computing Lab",
-      companylogo: require("./assets/images/CUCircularLogo.png"),
-      date: "August 2021 – July 2022",
-      desc: "I was a graduate student researcher working under Dr. Sidney D'Mello.",
-      descBullets: [
-        "Conducted research in the Emotive Computing Lab on human-AI collaboration and its potential applications in educational settings, supported by the NSF National AI Institute for Student-AI Teaming (iSAT)",
-        "Applied statistical techniques using Python and R to analyze eye movement patterns in collaborative teams",
-        "Published a first-authored paper in the 23rd International Conference on Artificial Intelligence in Education (AIED ’22), showcasing our findings on the feasibility of using AI to enhance teamwork"
-      ]
-    },
-    {
-      role: "Researcher",
-      company: "kLAB at RIT",
-      companylogo: require("./assets/images/RITLogo.png"),
-      date: "June 2017 – August 2017",
-      desc: "Successfully secured a grant from the National Science Foundation (NSF) to conduct deep learning research as part of the Research Experiences for Undergraduates (REU) program",
-      descBullets: [
-        "Conducted comprehensive literature review on proposed methods to mitigate “catastrophic forgetting” in deep neural networks",
-        "Developed and executed experiments using Python with Keras and TensorFlow libraries to compare mitigation methods, resulting in valuable insights",
-        "Co-authored a paper that was accepted and published at the prestigious 2018 AAAI conference"
-      ]
-    }
-  ]
-};
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -204,9 +222,22 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Data Stories",
+  title: "Selected Projects",
   subtitle: "Please explore some data analysis projects I've done!",
   projects: [
+      {
+      image: require("./assets/images/insta_goal.png"),
+      projectName: "INSTA-GOAL",
+      projectDesc:
+        "I conducted an end-to-end user research study to design a habit tracking app.",
+      footerLink: [
+        {
+          name: "See project",
+          url: "https://angelina-abitino.github.io/insta-goal/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
       image: require("./assets/images/chinook.png"),
       projectName: "Chinook Music Store",
@@ -257,6 +288,19 @@ const achievementSection = {
     "Achievements and certifications that have made me a better data analyst!",
 
   achievementsCards: [
+      {
+      title: "CSCI 5839: User-Centered Design and Development",
+      subtitle:
+        "I completed CSCI 5839 at the University of Colorado Boulder. This course covered personas, prototyping, user test scripts, and task models. We conducted a comprehensive user research study and used Figma to design our own mobile application.",
+      image: require("./assets/images/CUBoulderCircularLogo.png"),
+      imageAlt: "UC Boulder Logo",
+      footerLink: [
+        {
+          name: "Course Completion",
+          url: "github.com/CMSgov/hospital-price-transparency/blob/master/documentation/JSON/schemas/V2.2.0_Hospital_price_transparency_schema.json"
+        }
+      ]
+    },
     {
       title: "Data Visualization with Tableau",
       subtitle:
