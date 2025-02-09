@@ -103,10 +103,10 @@ const workExperiences = {
       date: "June 2023 – February 2025",
       desc: "I directed cross-functional teams to integrate critical healthcare data into our products, enhancing data quality, accessibility, and compliance while continuously improving user experience.",
       descBullets: [
-        "Spearheaded cross-functional coordination between offshore and internal teams to ensure the timely integration of CMS-mandated price transparency data into our product, driving improvements in data quality and delivering greater value to users",
-        "Engineered SQL-based logic to integrate price transparency data into a unified database, optimizing data accessibility and enhancing functionality across multiple products",
-        "Proposed a streamlined data filtering approach that reduced risky patient identification percentages below 0.5%, aligning with HIPAA privacy laws and mitigating legal risk",
-        "Engaged directly with users and product teams to gather feedback on the rollout of new price transparency data, ensuring the product met their needs and driving continuous improvements based on user insights"
+        "Spearheaded cross-functional coordination between offshore and internal teams to integrate CMS-mandated price transparency data into our product, driving improvements in data quality and delivering greater value to users",
+        "Engineered SQL-based logic to integrate price transparency data into a unified database, optimizing data accessibility and enhancing functionality",
+        "Engaged directly with users and product teams to gather feedback on the rollout of new price transparency data, ensuring the product met their needs and driving continuous improvements based on user insights",
+        "Proposed a streamlined data filtering approach that reduced risky patient identification percentages below 0.5%, aligning with HIPAA privacy laws and mitigating legal risk"
       ]
     },
     {
