@@ -198,7 +198,7 @@ const techStack = {
     },
     {
       Stack: "Python",
-      progressPercentage: "80%"
+      progressPercentage: "85%"
     },
     {
       Stack: "Tableau",
