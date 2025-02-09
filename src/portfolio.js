@@ -26,7 +26,7 @@ const greeting = {
     "A data and UX professional with experience in data-driven decision-making and human-AI interaction research. I bridge the gap between analytics and user experience to create intuitive, impactful solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1fo8LpfTybB3E18mhiErK2Wh8k3glKlni/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1A21NtqufakJ4mFmZer8I0BqsRoYaR26b/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
