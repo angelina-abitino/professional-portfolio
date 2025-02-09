@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.3131884c.css",
-    "main.js": "/professional-portfolio/static/js/main.deca16f7.js",
+    "main.js": "/professional-portfolio/static/js/main.804a8b5d.js",
     "static/css/487.bb36206c.chunk.css": "/professional-portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/professional-portfolio/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/professional-portfolio/static/css/990.c6a7ee28.chunk.css",
@@ -9,7 +9,6 @@
     "static/media/profilePicSnow.jpg": "/professional-portfolio/static/media/profilePicSnow.a506c01098ca46d86f94.jpg",
     "static/media/CUCircularLogo.png": "/professional-portfolio/static/media/CUCircularLogo.64171276f3a830db34e0.png",
     "static/media/Montserrat-Regular.ttf": "/professional-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/RITLogo.png": "/professional-portfolio/static/media/RITLogo.c25349d3cbd5981ac032.png",
     "static/media/CUBoulderCircularLogo.png": "/professional-portfolio/static/media/CUBoulderCircularLogo.89eaa7a8bab151adea32.png",
     "static/media/Agustina.woff": "/professional-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/rentalVizHouse.png": "/professional-portfolio/static/media/rentalVizHouse.26bcf3e08061c41770c0.png",
@@ -24,7 +23,7 @@
     "index.html": "/professional-portfolio/index.html",
     "static/media/talksCardBack.svg": "/professional-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3131884c.css.map": "/professional-portfolio/static/css/main.3131884c.css.map",
-    "main.deca16f7.js.map": "/professional-portfolio/static/js/main.deca16f7.js.map",
+    "main.804a8b5d.js.map": "/professional-portfolio/static/js/main.804a8b5d.js.map",
     "487.bb36206c.chunk.css.map": "/professional-portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/professional-portfolio/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/professional-portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -32,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.3131884c.css",
-    "static/js/main.deca16f7.js"
+    "static/js/main.804a8b5d.js"
   ]
 }
