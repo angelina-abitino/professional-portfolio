@@ -133,18 +133,6 @@ const workExperiences = {
         "Applied statistical techniques using Python and R to analyze eye movement patterns in collaborative teams",
         "Studied user-centered design and development by iteratively designing a habit-tracking app, leveraging personas, prototypes, user test scripts, task models, and a comprehensive user research study to refine user experience and ensure alignment with user needs"
       ]
-    },
-    {
-      role: "Researcher",
-      company: "kLAB at RIT",
-      companylogo: require("./assets/images/RITLogo.png"),
-      date: "June 2017 – August 2017",
-      desc: "Successfully secured a grant from the National Science Foundation (NSF) to conduct deep learning research as part of the Research Experiences for Undergraduates (REU) program",
-      descBullets: [
-        "Conducted comprehensive literature review on proposed methods to mitigate “catastrophic forgetting” in deep neural networks",
-        "Developed and executed experiments using Python with Keras and TensorFlow libraries to compare mitigation methods, resulting in valuable insights",
-        "Co-authored a paper that was accepted and published at the prestigious 2018 AAAI conference"
-      ]
     }
   ]
 };
