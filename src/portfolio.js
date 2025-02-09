@@ -99,7 +99,7 @@ const workExperiences = {
       {
       role: "Product Manager, Data Analytics",
       company: "Clarify Health",
-      companylogo: require("./assets/images/clarify_logo.jpg"),
+      companylogo: require("./assets/images/clarify_logo.jpeg"),
       date: "June 2023 – February 2025",
       desc: "I directed cross-functional teams to integrate critical healthcare data into our products, enhancing data quality, accessibility, and compliance while continuously improving user experience.",
       descBullets: [
@@ -116,7 +116,7 @@ const workExperiences = {
       date: "August 2018 – June 2021",
       desc: "I lead successful data integration projects for major healthcare systems, collaborating with executives, project managers, and analytics teams to ensure positive outcomes",
       descBullets: [
-        "Developed standardized project management tools that improved workflow eﬃciency and increased on-time project completion",
+        "Developed standardized project management tools that improved workflow efficiency and increased on-time project completion",
         "Managed direct reports, delegating hands-on work while providing guidance, feedback, and professional development support",
         "Designed and tested ETL processes to integrate large-scale claims data while ensuring clinical data quality with a focus on user and client needs",
         "Partnered with clients’ analytics teams to create SQL queries for reporting"
@@ -222,7 +222,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Selected Projects",
-  subtitle: "Please explore some data analysis projects I've done!",
+  subtitle: "",
   projects: [
       {
       image: require("./assets/images/insta_goal.png"),
